@@ -1,8 +1,8 @@
 const skills = [
-  { category: 'Frontend', items: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS', 'Framer Motion'] },
-  { category: 'Backend', items: ['Node.js', 'Python', 'PostgreSQL', 'GraphQL', 'REST APIs'] },
-  { category: 'Design', items: ['Figma', 'Adobe XD', 'Photoshop', 'Illustrator', 'Prototyping'] },
-  { category: 'Tools', items: ['Git', 'Docker', 'AWS', 'Vercel', 'CI/CD'] },
+  { category: 'Languages', items: ['Python', 'Java', 'C', 'HTML', 'CSS'] },
+  { category: 'DevOps', items: ['Docker', 'Kubernetes', 'Jenkins', 'CI/CD', 'Terraform'] },
+  { category: 'Cloud', items: ['AWS', 'Azure', 'GCP', 'Linux', 'Shell Scripting'] },
+  { category: 'Tools', items: ['Git', 'GitHub Actions', 'Ansible', 'Prometheus', 'Grafana'] },
 ];
 
 const SkillsSection = () => {
