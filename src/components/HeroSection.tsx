@@ -16,24 +16,24 @@ const HeroSection = () => {
             className="text-primary font-medium tracking-widest uppercase text-sm mb-6 animate-fade-up"
             style={{ animationDelay: '0.2s' }}
           >
-            Creative Developer & Designer
+            DevOps Engineer
           </p>
           
           <h1 
             className="font-display text-5xl md:text-7xl lg:text-8xl font-bold leading-tight mb-8 animate-fade-up"
             style={{ animationDelay: '0.4s' }}
           >
-            Crafting Digital
+            Tanavarapu
             <br />
-            <span className="text-gradient">Experiences</span>
+            <span className="text-gradient">Ashritha</span>
           </h1>
           
           <p 
             className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-12 leading-relaxed animate-fade-up"
             style={{ animationDelay: '0.6s' }}
           >
-            I create beautiful, functional websites and applications that 
-            leave lasting impressions. Turning complex ideas into elegant solutions.
+            DevOps Engineer passionate about cloud computing, automation, and building 
+            scalable infrastructure. Bridging development and operations with elegant solutions.
           </p>
           
           <div 
